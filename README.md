@@ -40,9 +40,9 @@
 
 ## Expected Output
 
-[](assets/readme/home_screen.png) [](assets/readme/bottom_sheet_login.png)
-[](assets/readme/UI_guardian_register.png) [](assets/readme/UI_tutor_register.png)
-[](assets/readme/UI_guardian_login.png) [](assets/readme/UI_tutor_login.png)
+[](/assets/readme/home_screen.png) [](/assets/readme/bottom_sheet_login.png)
+[](/assets/readme/UI_guardian_register.png) [](/assets/readme/UI_tutor_register.png)
+[](/assets/readme/UI_guardian_login.png) [](/assets/readme/UI_tutor_login.png)
 
 ## License
 
@@ -54,7 +54,7 @@
 
 ## Bugs & Issue
 
-- For bugs, feature requests, and discussion please use __[GitHub Issues]__.
+- For bugs, feature requests, and discussion please use [GitHub Issues](https://github.com/udit-raj-simform/chapter_4/issues)
 
 
-[](assets/readme/readme.mp4)
+[](/assets/readme/readme.mp4)
